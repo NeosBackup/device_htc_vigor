@@ -96,3 +96,6 @@ TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/class/android_usb/android0/f_mass_storag
 
 # Use power button as select in recovery
 BOARD_HAS_NO_SELECT_BUTTON := true
+
+# SPecify your target GCC Version Here
+TARGET_GCC_VERSION := 4.8
